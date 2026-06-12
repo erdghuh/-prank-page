@@ -1,1 +1,20 @@
-# -prank-page
+# -prank-page<!DOCTYPE html>
+<html dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>مزحة</title>
+<style>
+body{
+  background:black;
+  color:red;
+  font-family:Arial;
+  text-align:center;
+  padding-top:150px;
+}
+</style>
+</head>
+<body>
+<h1>😂 أمزح معك!</h1>
+<p>لا تخاف، ما صار أي شيء لجهازك.</p>
+</body>
+</html>
